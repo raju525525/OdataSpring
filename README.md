@@ -1,4 +1,4 @@
-# OData Boilerplate
+# OData Boot Services
 
 The OData Boilerplate combines OpenUI5 with Spring Boot, OLingo and JPA and allows you to easily and quickly boot up a JVM based OData app based on modeling your data model in using JPA.
 
