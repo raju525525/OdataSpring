@@ -8,7 +8,7 @@ By default, the application comes with just one entity: Members, that is automat
 
 Once the application is running, you can browse to http://localhost:8080 to run the sample OpenUI5 application that is using the OData service. The service itself is available from http://localhost:8080/odata.svc
 
-## Features
+## Features (Deployee on any VM, including Tomcat, HANA Cloud Platform, Azure, But also on Plain java Using Build-in Tomcat)
 
 - Deploys on any VM, including Tomcat, HANA Cloud Platform, Azure, but also on plain Java using built-in Tomcat
 - Full CRUD support on all JPA entities
